@@ -138,6 +138,9 @@ body{overflow-x: hidden;};
 .icon-github:before {
   content: "\eab0";
 }
+.icon-instagram:before {
+  content: "\ea92";
+}
 .icon-chrome:before {
   content: "\ead9";
 }
